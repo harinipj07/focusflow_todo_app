@@ -30,3 +30,4 @@ OR use VS Code:
 - Daily completion progress bar like 10/15
 - Local storage support
 - Mobile, tablet, and desktop responsive
+- Updated deployment
